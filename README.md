@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter,FireBase**
 
-- 👨‍💻 All of my projects are available at [aryanpanchal.me](aryanpanchal.me)
+- 👨‍💻 All of my projects are available at [aryanpanchal.me](https://aryanpanchal.me)
 
 - 💬 Ask me about **Flutter,Java,Python**
 
